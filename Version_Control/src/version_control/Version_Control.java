@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package veersion_control;
+package version_control;
 
 /**
  *
  * @author Javier Flores
  */
-public class Veersion_Control {
+public class Version_Control {
 
     /**
      * @param args the command line arguments
