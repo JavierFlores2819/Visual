@@ -17,8 +17,7 @@ public class Version_Control {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("esto es un primer cambio");
-        System.out.println("esto es un 2do cambio");
-System.out.println("esto es un 3rd cambio");
+       
     }
 
 }
