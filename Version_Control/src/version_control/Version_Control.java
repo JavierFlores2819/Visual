@@ -6,6 +6,8 @@
  */
 package version_control;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author 
@@ -18,6 +20,7 @@ public class Version_Control {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("esto es un primer cambio");
+        JOptionPane.showMessageDialog(null, "CAMBIO");
        
     }
 
