@@ -21,7 +21,7 @@ public class Version_Control {
         // TODO code application logic here
         System.out.println("esto es un primer cambio");
          System.out.println("esto es otro cambio");
-   
+   JOptionPane.showMessageDialog(null, "Control de Cambios");
     }
 
 }
