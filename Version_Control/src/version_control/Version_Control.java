@@ -22,6 +22,7 @@ public class Version_Control {
         System.out.println("esto es un primer cambio");
          System.out.println("esto es otro cambio");
    JOptionPane.showMessageDialog(null, "Control de Cambios");
+        System.out.println("ola q ase?");
     }
 
 }
